@@ -3,6 +3,7 @@
 <img src="logo.png" alt="Prompt Pirate Logo" width="200" height="200" style="border-radius: 50%;">
 
 # 🏴‍☠️ Ren'Py to Godot Converter
+🄲🄾🄼🄸🄽🄶 🅂🄾🄾🄽
 
 **One-click conversion from Ren'Py visual novels to fully working Godot 4+ projects**
 
