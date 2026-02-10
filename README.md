@@ -10,6 +10,7 @@
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![Godot](https://img.shields.io/badge/Godot-4.3+-478CBF.svg)](https://godotengine.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+<img src="https://komarev.com/ghpvc/?username=promptpirate-x&repo=renpy2godot-converter&color=blue&style=for-the-badge&label=repo+views" />
 
 [Features](#-features) • [Installation](#-installation) • [Usage](#-usage) • [How It Works](#-how-it-works) • [FAQ](#-faq)
 
