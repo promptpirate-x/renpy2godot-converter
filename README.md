@@ -4,6 +4,7 @@
 
 ## 🏴‍☠️ Ren'Py to Godot Converter
 @@ # 𝗖𝗢𝗠𝗜𝗡𝗚 𝗦𝗢𝗢𝗡 @@
+$${\color{purple}𝗖𝗢𝗠𝗜𝗡𝗚 𝗦𝗢𝗢𝗡}$$
 
 **One-click conversion from Ren'Py visual novels to fully working Godot 4+ projects**
 
