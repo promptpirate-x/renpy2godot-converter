@@ -1,14 +1,13 @@
 <div align="center">
 
-![Prompt Pirate Logo](logo.png)
+<img src="assets/logo.png" alt="Prompt Pirate Logo" width="120" height="120" style="border-radius: 50%;">
 
 # 🏴‍☠️ Ren'Py to Godot Converter
 
-**One-click conversion from Ren'Py visual novels to fully working Godot 4+ projects with Dialogic 2**
+**One-click conversion from Ren'Py visual novels to fully working Godot 4+ projects**
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![Godot](https://img.shields.io/badge/Godot-4.3+-478CBF.svg)](https://godotengine.org/)
-[![Dialogic](https://img.shields.io/badge/Dialogic-2.0-purple.svg)](https://github.com/dialogic-godot/dialogic)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 [Features](#-features) • [Installation](#-installation) • [Usage](#-usage) • [How It Works](#-how-it-works) • [FAQ](#-faq)
@@ -21,7 +20,8 @@
 
 A **Python tool** that automatically converts Ren'Py visual novel games into fully functional **Godot 4+ projects** with **Dialogic 2** integration. No manual asset copying, no tedious setup - just run one command and open in Godot!
 
-> 🎮 Tested with **Katawa Shoujo** - 2000+ assets, 25+ characters, fully converted!
+> 🎮 Tested with many games, including **Katawa Shoujo**- 2000+ assets, 25+ characters, fully converted including VFX!
+> 🔎 Working on more elaborate Renpy games now to increase the conversion success rate
 
 ---
 
@@ -152,7 +152,7 @@ MyGodotGame/
 <details>
 <summary><b>Why Godot instead of staying with Ren'Py?</b></summary>
 
-Godot offers more flexibility for custom gameplay, better performance, modern tooling, and you own your entire pipeline. Plus it's great for learning game dev!
+Godot offers more flexibility for custom gameplay, better performance, modern tooling, packaging for console games, and you own your entire pipeline. Plus it's great for learning game dev!
 </details>
 
 <details>
@@ -207,7 +207,5 @@ MIT License - do whatever you want with it!
 <div align="center">
 
 **Made with ❤️ by [Prompt Pirate](https://github.com/promptpirate-x)**
-
-*Converting visual novels, one pirate at a time* 🏴‍☠️
 
 </div>
