@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/logo.png" alt="Prompt Pirate Logo" width="120" height="120" style="border-radius: 50%;">
+<logo.png>
 
 # 🏴‍☠️ Ren'Py to Godot Converter
 
